@@ -13,5 +13,6 @@
   </a>
   <p><img src="https://komarev.com/ghpvc/?username=shubhankartrivedi&style=flat-square&color=blue" alt=""/></p>
 </div>
-<center><h1>👋 Hi, I’m Shubhankar Trivedi</h1>
-</center>
+<div align="center">
+<h1>👋 Hi, I’m Shubhankar Trivedi</h1>
+</div
