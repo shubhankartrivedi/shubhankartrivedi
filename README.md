@@ -12,4 +12,4 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?shubhankartrivedi&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=shubhankartrivedi&style=flat-square&color=blue" alt=""/>
