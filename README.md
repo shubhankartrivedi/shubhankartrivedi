@@ -15,4 +15,8 @@
 </div>
 <div align="center">
 <h1>👋 Hi, I’m Shubhankar Trivedi</h1>
-</div
+---
+
+### :woman_technologist: About Me :
+
+</div>
