@@ -11,5 +11,6 @@
   <a href="https://www.instagram.com/shubhankarco/"target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=shubhankartrivedi&style=flat-square&color=blue" alt=""/>
 </div>
-<img src="https://komarev.com/ghpvc/?username=shubhankartrivedi&style=flat-square&color=blue" alt=""/>
+
