@@ -19,6 +19,4 @@ I am a Student of Computer Science <img src="https://emoji.gg/assets/emoji/4297-
 - :seedling: I’m currently learning React.js , Web Dev , Java , etc...
 
 - :zap: I’m looking to collaborate on Projects.
-
-- :mailbox:How to reach me: [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shubhankarco)
 </div>
