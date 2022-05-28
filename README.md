@@ -14,7 +14,7 @@
 
 ### :man_technologist: About Me :
 I am a Student of Computer Science <img src="https://emoji.gg/assets/emoji/4297-pepe-hacker.gif" width="30"> from India.<p>
-- :telescope: Discord : Nezuko🌙#8304
+- :telescope: Discord : Pharoh#8304
 
 - :seedling: I’m currently learning React.js , Web Dev , Java , etc...
 
