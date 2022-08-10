@@ -19,7 +19,7 @@ I am a Student of Computer Science <img src="https://emoji.gg/assets/emoji/4297-
 
 - :zap: Current Project: <a href="https://discordbotbuilder.com" target="_blank">Discord Bot Builder</a>
   
-- :seedling: I’m currently learning React.js , Web Dev , Java , etc...
+- :seedling: I’m currently learning React.js, Node.js, Frontend CSS, Java, Linux, Networking, Cyber Security etc...
 
 
   
