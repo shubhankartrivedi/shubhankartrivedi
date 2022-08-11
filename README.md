@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://i.ibb.co/wCBr2vh/285-2856898-anime-animeboy-animeguy-boyanime-guyanime-hot-anime-boy-removebg-preview.png"  width="200"/>
+  <img src="https://cdn.discordapp.com/attachments/1004752057489694751/1007232644557328545/Untitled_design_2.png"  width="200"/>
 </div>
 <div id="badges"align="center">
   
