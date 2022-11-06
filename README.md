@@ -15,8 +15,8 @@
 I am a Student of Computer Science <img src="https://emoji.gg/assets/emoji/4297-pepe-hacker.gif" width="30"> from India.<p>
 - :telescope: Discord : Pharoh#8304
 
-- :zap: Current Project: <a href="https://discordbotbuilder.com" target="_blank">Discord Bot Builder</a>
-  
+- :zap: Current Project: [Private]
+- Last Project: <a href="https://discordbotbuilder.com" target="_blank">Discord Bot Builder</a>
 - :seedling: I’m currently learning React.js, Node.js, Frontend CSS, Java, Linux, Networking, Cyber Security etc...
 
 
