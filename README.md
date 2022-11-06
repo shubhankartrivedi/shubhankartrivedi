@@ -23,7 +23,7 @@ I am a Student of Computer Science <img src="https://emoji.gg/assets/emoji/4297-
 
 - :seedling: I’m currently learning React.js, Node.js, Frontend CSS, Linux, Networking, Cyber Security etc...
 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shubhankartrivedi&theme=dark&background=000000)](https://git.io/streak-stats)
   
   
 </div>
