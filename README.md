@@ -13,7 +13,7 @@
 
 ### :man_technologist: About Me :
 I am a Student of Computer Science <img src="https://emoji.gg/assets/emoji/4297-pepe-hacker.gif" width="30"> from India.<p>
-- :telescope: Discord : Pharoh#8304
+- :telescope: Discord : @shubhankart
 
 - :zap: Current Project: [Private]
 - Last Project: <a href="https://discordbotbuilder.com" target="_blank">Discord Bot Builder</a>
