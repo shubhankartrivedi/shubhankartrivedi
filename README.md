@@ -16,12 +16,12 @@ I am a Student of Computer Science <img src="https://emoji.gg/assets/emoji/4297-
 - :telescope: Discord : @shubhankart
 
 - :zap: Current Project: [Private]
-- Last Project: <a href="https://discordbotbuilder.com" target="_blank">Discord Bot Builder</a>
 
-- Professional Full Stack Web Developer, 4 Years of experience and have Skill to work on Startups.
+- Professional Full Stack Web Developer, 5 Years of experience and have Skills to work on Startups.
 
 
-- :seedling: I’m currently learning React.js, Node.js, Frontend CSS, Linux, Networking, Cyber Security etc...
+- :seedling: I’m currently working with NextJS, ReactJS, Firebase, UI/UX Design & Code, DevOps.
+- Developing production ready applications 🚚.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shubhankartrivedi&theme=dark&background=000000)](https://git.io/streak-stats)
   
