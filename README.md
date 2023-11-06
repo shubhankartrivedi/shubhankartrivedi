@@ -20,7 +20,7 @@ I am a Student of Computer Science <img src="https://emoji.gg/assets/emoji/4297-
 - Professional Full Stack Web Developer, 5 Years of experience and have Skills to work on Startups.
 
 
-- :seedling: I’m currently working with NextJS, ReactJS, Firebase, UI/UX Design & Code, DevOps.
+- :seedling: I’m currently working on NextJS, ReactJS, Firebase, UI/UX Design & Code, DevOps.
 - Developing production ready applications 🚚.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shubhankartrivedi&theme=dark&background=000000)](https://git.io/streak-stats)
